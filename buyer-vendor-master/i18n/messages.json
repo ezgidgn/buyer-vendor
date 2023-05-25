@@ -1,0 +1,117 @@
+{
+    "en": {
+        "navigation" : {
+
+        },
+        "homePageScreen": {
+            "welcomeMessage" : "Hello welcome to our application"
+        },
+        "orderScreen" : {
+
+        },
+        "myProfileScreen" : {
+
+        },
+        "productsScreen" : {
+            "myProducts": "My Products",
+            "productEdit": "Product Edit",
+            "sortBy": "Sort by",
+            "filters": "Filters",
+            "edit": "Edit",
+            "name": "Name",
+            "vendorSku": "Vendor sku",
+            "buyerSku": "Buyer sku",
+            "status": "Status",
+            "originCountry": "Origin Country",
+            "gtipCode": "Gtip Code",
+            "stock": "Stock",
+            "price": "Price",
+            "enable": "Enable",
+            "disable": "Disable",
+            "save": "Save",
+            "pricel2h": "Price Low to High",
+            "priceh2l": "Price High to Low",
+            "stockl2h": "Stock Low to High",
+            "stockh2l": "Stock High to Low",
+            "datel2h": "Newest to Oldest",
+            "dateh2l": "Oldest to Newest",
+            "show": "Show",
+            "priceMinimum": "Price minimum",
+            "priceMaximum": "Price maximum",
+            "stockMinimum": "Stock minimum",
+            "stockMaximum": "Stock maximum",
+            "clearFilters": "Clear Filters"
+        },
+        "productClaimScreen" : {
+            "linkInputPlaceHolder" : "enter the link",
+            "nameInputPlaceHolder" : "enter product name",
+            "skuInputPlaceHolder" : "enter sku",
+            "priceInputPlaceHolder" : "enter the product price",
+            "typeInputPlaceHolder" : "enter product type",
+            "colorInputPlaceHolder" : "enter product color",
+            "discount_priceInputPlaceHolder" : "enter the discount amount",
+            "barcodeInputPlaceHolder" : "enter the product barcode",
+            "variantsInputPlaceHolder" : "enter version",
+            "variant_codeInputPlaceHolder" : "enter version code",
+            "manufacturerInputPlaceHolder" : "Enter the manufacturer's name",
+            "descriptionInputPlaceHolder" : "enter description",
+            "selectProductGender":"SELECT PRODUCT GENDER",
+            "male":"male",
+            "female":"female",
+            "unisex":"unisex",
+            "categories":"CATEGORIES",
+            "saveButton":"Save",
+            "nameValidationMessage":"product name cannot be empty",
+            "skuValidationMessage":"sku cannot be empty",
+            "priceValidationMessage":"price cannot be empty",
+            "barcodeValidationMessage":"barcode cannot be empty",
+            "manufacturerValidationMessage":"manufacturer cannot be empty",
+            "descriptionValidationMessage":"description cannot be empty",
+            "productClaimRequestSuccessMessage":"Your request to add a product has been created"
+        }
+    },
+    "tr": {
+        "navigation" : {
+
+        },
+        "homePageScreen": {
+            "welcomeMessage" : "Selamlar!"
+        },
+        "orderScreen" : {
+
+        },
+        "myProfileScreen" : {
+
+        },
+        "productsScreen" : {
+
+        },
+        "productClaimScreen" : {
+            "linkInputPlaceHolder" : "linki giriniz",
+            "nameInputPlaceHolder" : "ürün ismini giriniz",
+            "skuInputPlaceHolder" : "sku giriniz",
+            "priceInputPlaceHolder" : "ürün fiyatını giriniz",
+            "typeInputPlaceHolder" : "ürün tipini giriniz",
+            "colorInputPlaceHolder" : "ürün rengini giriniz",
+            "discount_priceInputPlaceHolder" : "indirim miktarını(discount price) giriniz",
+            "barcodeInputPlaceHolder" : "ürün barkodunu giriniz",
+            "variantsInputPlaceHolder" : "versiyon giriniz",
+            "variant_codeInputPlaceHolder" : "versiyon kodunu giriniz",
+            "manufacturerInputPlaceHolder" : "üretici firma adını giriniz",
+            "descriptionInputPlaceHolder" : "açıklama giriniz",
+            "selectProductGender":"ÜRÜNÜN TİPİNİ GİRİNİZ",
+            "male":"erkek",
+            "female":"kadın",
+            "unisex":"unisex",
+            "categories":"KATEGORİLER",
+            "saveButton":"Kaydet",
+            "nameValidationMessage":"ürün ismi boş geçilemez",
+            "skuValidationMessage":"sku boş geçilemez",
+            "priceValidationMessage":"fiyat boş geçilemez",
+            "barcodeValidationMessage":"barkod boş geçilemez",
+            "manufacturerValidationMessage":"üretici firma boş geçilemez",
+            "descriptionValidationMessage":"açıklama boş geçilemez",
+            "productClaimRequestSuccessMessage":"Ürün ekleme talebiniz oluşturulmuştur"
+        }
+    }
+}

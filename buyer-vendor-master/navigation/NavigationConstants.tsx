@@ -1,0 +1,20 @@
+export default {
+    home: "Home",
+    myOrders: "MyOrders",
+    myOrdersNavigator: "MyOrdersNavigator",
+    myOrderDetails: "MyOrderDetails",
+    myOrdersFilter: "MyOrdersFilter",
+    myOrdersSortBy: "MyOrdersSortBy",
+    myProductsNavigator: "MyProductsNavigator",
+    myProducts: "MyProducts",
+    myProductsFilter: "MyProductsFilter",
+    myProductsSortBy: "MyProductsSortBy",
+    productDetail: "ProductDetail",
+    productEdit: "ProductEdit",
+    profile: "Profile",
+    login:"Login",
+    productClaim:"ProductClaim",
+    logout:"Logout",
+    productClaimsList:"ProductClaimsList",
+    productClaimsNavigator:"ProductClaimsNavigator"
+}
